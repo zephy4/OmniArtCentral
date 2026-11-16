@@ -1,0 +1,2 @@
+/Users/macbook/Desktop/omni/onmi_art_central/android/app/.cxx/RelWithDebInfo/6q5t3d1j/x86_64/CMakeFiles/edit_cache.dir
+/Users/macbook/Desktop/omni/onmi_art_central/android/app/.cxx/RelWithDebInfo/6q5t3d1j/x86_64/CMakeFiles/rebuild_cache.dir
